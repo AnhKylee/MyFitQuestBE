@@ -1,0 +1,14 @@
+D:\Study\EXE201\BE\MyFitQuest.Services\bin\Debug\net8.0\MyFitQuest.Services.deps.json
+D:\Study\EXE201\BE\MyFitQuest.Services\bin\Debug\net8.0\MyFitQuest.Services.runtimeconfig.json
+D:\Study\EXE201\BE\MyFitQuest.Services\bin\Debug\net8.0\MyFitQuest.Services.dll
+D:\Study\EXE201\BE\MyFitQuest.Services\bin\Debug\net8.0\MyFitQuest.Services.pdb
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.csproj.AssemblyReference.cache
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.AssemblyInfoInputs.cache
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.AssemblyInfo.cs
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.csproj.CoreCompileInputs.cache
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.dll
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\refint\MyFitQuest.Services.dll
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.pdb
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\MyFitQuest.Services.genruntimeconfig.cache
+D:\Study\EXE201\BE\MyFitQuest.Services\obj\Debug\net8.0\ref\MyFitQuest.Services.dll

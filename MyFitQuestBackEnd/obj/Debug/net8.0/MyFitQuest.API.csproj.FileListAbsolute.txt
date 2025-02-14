@@ -1,0 +1,7 @@
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.csproj.AssemblyReference.cache
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.AssemblyInfoInputs.cache
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.AssemblyInfo.cs
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.csproj.CoreCompileInputs.cache
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\EXE201\BE\MyFitQuestBackEnd\obj\Debug\net8.0\MyFitQuest.API.MvcApplicationPartsAssemblyInfo.cache
